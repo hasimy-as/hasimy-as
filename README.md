@@ -2,13 +2,13 @@
 it's Hasimy, the junior back end dev.
 <br>
 
- - 🌱 ‎‎ I’m currently improving my `Nodejs` `Restify` `Express` `Deno`
+ - 🌱 ‎‎‎ I’m currently improving my `Nodejs` `Restify` `Express` `Deno`
  
- - 🙌 ‎‎ Fun fact: Nodejs is current go-to for server-side web development!
+ - 🙌 ‎‎‎ Fun fact: Nodejs is current go-to for server-side web development!
  
- - 📫 ‎‎ Visit my website, at https://hasimy-as.github.io/my-web
+ - 📫 ‎‎‎ Visit my website, at https://hasimy-as.github.io/my-web
  
- - 🔭 ‎‎ Here's my social medias https://linktr.ee/as.hasimy
+ - 🔭 ‎‎‎ Here's my social medias https://linktr.ee/as.hasimy
 
 <br>
 
