@@ -12,8 +12,6 @@ it's Hasimy, the junior back end dev.
 
 <br>
 
-[![hasimy-as's github stats](https://github-readme-stats.vercel.app/api?username=hasimy-as&show_icons=true&theme=buefy)](https://github.com/hasimy-as/github-readme-stats)
-
 <!--
 **hasimy-as/hasimy-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
