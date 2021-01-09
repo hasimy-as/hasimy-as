@@ -50,7 +50,7 @@ async function setWeather() {
 
 async function setInstagramPosts() {
 	const instagramImages = await ps.getInstagramPosts(
-		'pesonaid_travel',
+		'agreeculture.id',
 		3,
 	);
 	DATA.img1 = instagramImages[0];
