@@ -1,0 +1,27 @@
+{
+  "name": "hasimy-as",
+  "version": "1.0.0",
+  "description": "README purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasimy-as/hasimy-as.git"
+  },
+  "author": "Hasimy Md",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasimy-as/hasimy-as/issues"
+  },
+  "homepage": "https://github.com/hasimy-as/hasimy-as#readme",
+  "devDependencies": {
+    "mustache": "^4.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.5.0"
+  }
+}
