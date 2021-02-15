@@ -5,10 +5,12 @@
 <h3>As of now I code with:</h3>
 <p>
   <a href="https://www.npmjs.com"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
-  <a href="https://www.nodejs.org"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
+  <a href="https://www.restify.com"><img alt="Node.js with Restify" src="https://img.shields.io/badge/-Node.js%20with%20Restify-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
+  <a href="https://www.expressjs.com"><img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" /></a>
   <a href="https://www.mongodb.com"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></a>
   <a href="https://www.prettier.io"><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /></a>
   <a href="https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /></a>
+  <a href="https://www.mysql.com"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
   <a href="https://www.github.com/features/actions"><img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a>
   <a href="https://www.typescriptlang.org"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /></a>
   <a href="https://www.heroku.com"><img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -22,5 +24,5 @@
 </p>
 
 ------------
-<p align="center">This README file will be updated to keep up with <a href="https://www.instagram.com/agreeculture.id/" target="_blank">@agreeculture.id</a>'s posts!</br>Last updated at: Monday, 15 February, 09:34 GMT+7<br /></p>
+<p align="center">This README file will be updated to keep up with <a href="https://www.instagram.com/agreeculture.id/" target="_blank">@agreeculture.id</a>'s posts!</br>Last updated at: Monday, 15 February, 10:00 GMT+7<br /></p>
 <p align="center"><img src="https://github.com/hasimy-as/hasimy-as/workflows/README%20build/badge.svg" /></p>
