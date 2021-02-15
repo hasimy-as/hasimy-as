@@ -52,7 +52,7 @@ class PuppeteerService {
 				`window.scrollTo(0, document.body.scrollHeight)`,
 			);
 
-			await this.page.waitFor(1000);
+			await this.page.waitForTimeout(1000);
 
 			const nodes = await this.page.evaluate(() => {
 				const images = document.querySelectorAll(`.post-image`);

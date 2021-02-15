@@ -71,6 +71,8 @@ async function action() {
 	await setInstagramPosts();
 	await generateReadMe();
 	await ps.close();
+
+	console.log('Finished generating readme!');
 }
 
 action();
