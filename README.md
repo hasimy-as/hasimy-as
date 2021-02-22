@@ -1,7 +1,7 @@
 <h2>Why, hello there!</h2>
 
 
-<p>I'm Hasimy, a junior back end dev. </br> I am from Indonesia  <img src="https://www.flaticon.com/svg/static/icons/svg/3013/3013975.svg" width="13"/></p>
+<p>I'm Hasimy, a junior back end developer. </br> I am from the Republic of Indonesia  <img src="https://www.flaticon.com/svg/static/icons/svg/3013/3013975.svg" width="13"/></p>
 <h3>As of now I code with:</h3>
 <p>
   <a href="https://www.npmjs.com"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
@@ -24,5 +24,5 @@
 </p>
 
 ------------
-<p align="center">This README file will be updated to keep up with <a href="https://www.instagram.com/agreeculture.id/" target="_blank">@agreeculture.id</a>'s posts!</br>Last updated at: Monday, 22 February, 16:37 GMT+7<br /></p>
+<p align="center">This README file will be updated to keep up with <a href="https://www.instagram.com/agreeculture.id/" target="_blank">@agreeculture.id</a>'s posts!</br>Last updated at: Monday, 22 February, 16:40 GMT+7<br /></p>
 <p align="center"><img src="https://github.com/hasimy-as/hasimy-as/workflows/README%20build/badge.svg" /></p>
