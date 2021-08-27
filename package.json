@@ -1,5 +1,5 @@
 {
-  "name": "hasimy-as",
+  "name": "hasimy-generate-readme-service",
   "version": "1.0.0",
   "description": "README purposes",
   "main": "index.js",
