@@ -4,8 +4,6 @@ const fetch = require('node-fetch');
 const fs = require('fs');
 const ps = require('./services/puppeteer.service');
 
-// const ps = new puppeteerService();
-
 let DATA = {
 	refresh_date: new Date().toLocaleDateString('en-GB', {
 		weekday: 'long',
