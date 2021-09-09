@@ -1,7 +1,7 @@
 <h2>Howdy there, partner!</h2>
 
 
-<p>My name is Hasimy Md, a Junior Back-End Developer at <a href="https://telkom.co.id/sites/about-telkom/en_US/page/profile-and-brief-history-24" target="_blank">Telkom Indonesia</a>, and stationed in the <a href="https://agreeculture.id" target="_blank">Tribe of Agriculture</a></p>
+<p>My name is Hasimy Md, a Junior Back-End Developer at <a href="https://telkom.co.id/sites/about-telkom/en_US/page/profile-and-brief-history-24" target="_blank">Telkom Indonesia</a>, and stationed in the <a href="https://agreeculture.id" target="_blank">Tribe of Agriculture</a>.</p>
 <h3>As of now I code with:</h3>
 <p>
   <a href="https://www.npmjs.com"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
@@ -28,5 +28,5 @@
 </p>
 
 ------------
-<p align="center">This README file will be updated to keep up with <a href="https://www.instagram.com/agreeculture.id/" target="_blank">@agreeculture.id</a>'s posts!</br>Last updated at: Thursday, 9 September, 22:44 GMT+7<br /></p>
+<p align="center">This README file will be updated to keep up with <a href="https://www.instagram.com/agreeculture.id/" target="_blank">@agreeculture.id</a>'s posts!</br>Last updated at: Thursday, 9 September, 22:45 GMT+7<br /></p>
 <p align="center"><img src="https://github.com/hasimy-as/hasimy-as/workflows/README%20build/badge.svg" /></p>
