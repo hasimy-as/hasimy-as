@@ -22,11 +22,11 @@
 </p>
 <h3>#TemanBertumbuhBersama <img src="https://www.flaticon.com/svg/static/icons/svg/843/843298.svg" width="13"/></h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by Agree on <a href="https://www.instagram.com/agreeculture.id/" target="_blank">@agreeculture.id!</a><br/>Collaboration Digital Platform for the Agriculture Industry 4.0 by Telkom Indonesia.</a><br/><br/>Currently, the weather is at <b> 29°C, and it's <i>haze</i></b>.</br>Today, the sun will rise at <b>05:25</b> and sets at <b>17:46</b>, Western Indonesian Time.</p>
+<p>Above are the last 3 pictures posted by Agree on <a href="https://www.instagram.com/agreeculture.id/" target="_blank">@agreeculture.id!</a><br/>Collaboration Digital Platform for the Agriculture Industry 4.0 by Telkom Indonesia.</a><br/><br/>Currently, the weather is at <b> 26°C, and it's <i>haze</i></b>.</br>Today, the sun will rise at <b>05:25</b> and sets at <b>17:46</b>, Western Indonesian Time.</p>
 <h3>Social Medias:</h3>
 <p><a href="https://instagram.com/hasimy.md" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hasimy-as/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://wa.me/6281233810366" target="_blank"><img alt="WA Business" src="https://img.shields.io/badge/WA Business-%2312100E.svg?&style=for-the-badge&logo=Whatsapp&logoColor=white" /></a>
 </p>
 
 ------------
-<p align="center">This README file will be updated to keep up with <a href="https://www.instagram.com/agreeculture.id/" target="_blank">@agreeculture.id</a>'s posts!</br>Last updated at: Wednesday, 3 November, 18:22 GMT+7<br /></p>
+<p align="center">This README file will be updated to keep up with <a href="https://www.instagram.com/agreeculture.id/" target="_blank">@agreeculture.id</a>'s posts!</br>Last updated at: Thursday, 4 November, 20:31 GMT+7<br /></p>
 <p align="center"><img src="https://github.com/hasimy-as/hasimy-as/workflows/README%20build/badge.svg" /></p>

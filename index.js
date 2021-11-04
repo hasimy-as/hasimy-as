@@ -1,8 +1,9 @@
-require('dotenv').config();
-const Mustache = require('mustache');
-const fetch = require('node-fetch');
 const fs = require('fs');
+const fetch = require('node-fetch');
+const Mustache = require('mustache');
 const ps = require('./services/puppeteer.service');
+
+require('dotenv').config();
 
 let DATA = {
 	refresh_date: new Date().toLocaleDateString('en-GB', {
