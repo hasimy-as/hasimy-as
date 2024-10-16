@@ -1,7 +1,7 @@
 <h2>Howdy there, partner!</h2>
 
 
-<p>My name is Hasimy Md, a Junior Back-End Developer at <a href="https://telkom.co.id/" target="_blank">Telkom Indonesia</a>, and stationed in the tribe <a href="https://https://www.eproc-gov.tech" target="_blank">GovTech Procurement</a>.</p>
+<p>My name is Hasimy Md, a Junior Back-End Developer at <a href="https://telkom.co.id/" target="_blank">Telkom Indonesia</a>, and stationed in the tribe <a href="https://www.eproc-gov.tech" target="_blank">GovTech Procurement</a>.</p>
 <h3>As of now I code with:</h3>
 <p>
   <a href="https://www.npmjs.com"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
@@ -22,10 +22,10 @@
 </p>
 <h3>#LKPPDigitalTransformation</h3>
 <p><img width="200" src="./public/img/lkpp/444b46b1-abde-489b-a789-e444cd41200d.jpg" /> <img width="200" src="./public/img/lkpp/07ff7162-188b-4ccd-be7a-f134782800a7.jpg" /> <img width="200" src="./public/img/lkpp/e832d9ec-ee79-419f-92b1-ba1e698ccc7f.jpg" /></p>
-<p>Above are some pictures posted by LKPP on <a href="https://www.instagram.com/lkpp_ri/" target="_blank">@lkpp_ri!</a><br/>GovTech Procurement's service for procurement of goods digital transformation with LKPP based on the Presidential Decree No. 17 of 2023.</a><br/><br/>Currently, the weather is at <b> 31°C, and it's <i>partly cloudy</i></b>.</br>Today, the sun will rise at <b>05:51</b> and sets at <b>17:52</b>, Western Indonesian Time.</p>
+<p>Above are some pictures posted by LKPP on <a href="https://www.instagram.com/lkpp_ri/" target="_blank">@lkpp_ri!</a><br/>GovTech Procurement's service for procurement of goods digital transformation with LKPP based on the Presidential Decree No. 17 of 2023.</a><br/><br/>Currently, the weather is at <b> 30°C, and it's <i>partly cloudy</i></b>.</br>Today, the sun will rise at <b>05:03</b> and sets at <b>17:27</b>, Western Indonesian Time.</p>
 <h3>Social Medias:</h3>
 <p><a href="https://instagram.com/hasimy.md" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hasimy-as/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ------------
-<p align="center">This README file will be updated to keep up with <a href="https://www.instagram.com/agreeculture.id/" target="_blank">@agreeculture.id</a>'s posts!</br>Last updated at: Tuesday, September 3rd 2024, 15:45 GMT+7<br /></p>
+<p align="center">This README file will be updated to keep up with <a href="https://www.instagram.com/lkpp_ri/" target="_blank">@lkpp_ri</a>'s posts!</br>Last updated at: Tuesday, October 16th 2024, 08:55 GMT+7<br /></p>
