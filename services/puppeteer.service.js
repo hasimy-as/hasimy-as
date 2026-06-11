@@ -11,10 +11,9 @@ class PuppeteerService {
 				'--disable-setuid-sandbox',
 				'--disable-infobars',
 				'--window-position=0,0',
-				'--ignore-certifcate-errors',
-				'--ignore-certifcate-errors-spki-list',
+				'--ignore-certificate-errors',
+				'--ignore-certificate-errors-spki-list',
 				'--incognito',
-				'--proxy-server=http=194.67.37.90:3128',
 			],
 		});
 	}
@@ -35,31 +34,30 @@ class PuppeteerService {
 	}
 
 	static async close() {
-		await this.page.close();
-		await this.browser.close();
+		if (this.page) await this.page.close();
+		if (this.browser) await this.browser.close();
 	}
 
 	static async getInstagramPosts(acc, n) {
-		const page = `https://www.picuki.com/profile/${acc}`;
-		await this.goToPage(page);
-		let previousHeight;
-
 		try {
-			previousHeight = await this.page.evaluate(`document.body.scrollHeight`);
-			await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
+			const page = `https://www.picuki.com/profile/${acc}`;
+			await this.goToPage(page);
 
-			await this.page.waitForTimeout(1000);
+			await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
+			await new Promise((resolve) => setTimeout(resolve, 1000));
+
 			const nodes = await this.page.evaluate(() => {
 				const images = document.querySelectorAll(`.post-image`);
 				return [].map.call(images, (img) => img.src);
 			});
 
-			return nodes.slice(0, 3);
+			return nodes.slice(0, n);
 		} catch (error) {
-			console.log('Error', error);
-			process.exit(1);
+			console.error('Error fetching Instagram posts from Picuki:', error);
+			return [];
 		}
 	}
 }
 
 module.exports = PuppeteerService;
+
