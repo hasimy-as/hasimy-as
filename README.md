@@ -1,32 +1,72 @@
-<h2>Howdy there, partner!</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello,%20I'm%20Hasimy!&fontSize=50&animation=fadeIn&fontAlignY=38" />
 
+  <h3>Back-End Engineer @ <a href="https://telkom.co.id/">Telkom Indonesia</a></h3>
+  <p>Currently stationed in the Tribe of <b>E-Government Procurement</b>.</p>
 
-<p>My name is Hasimy Md, a Junior Back-End Developer at <a href="https://telkom.co.id/" target="_blank">Telkom Indonesia</a>, and stationed in the tribe <a href="https://www.eproc-gov.tech" target="_blank">GovTech Procurement</a>.</p>
-<h3>As of now I code with:</h3>
-<p>
-  <a href="https://www.npmjs.com"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
-  <a href="https://www.npmjs.com/package/nodemon"><img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white" /></a>
-  <a href="http://restify.com"><img alt="Node.js With Restify" src="https://img.shields.io/badge/-Node.js%20With%20Restify-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
-  <a href="https://www.expressjs.com"><img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" /></a>
-  <a href="https://www.mongodb.com"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></a>
-  <a href="https://www.mysql.com"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-3399ff?style=flat-square&logo=mysql&logoColor=white" /></a>
-  <a href="https://www.go.dev"><img alt="Golang" src="https://img.shields.io/badge/-Golang-008bb9?style=flat-square&logo=go&logoColor=white" /></a><br />
-  <a href="https://www.github.com/features/actions"><img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a>
-  <a href="https://www.redis.io"><img alt="Redis" src="https://img.shields.io/badge/-Redis-FF0000?style=flat-square&logo=redis&logoColor=white" /></a>
-  <a href="https://www.npmjs.com/package/ts-node"><img alt="TS-Node" src="https://img.shields.io/badge/-TypeScript%20Node-3178C6?style=flat-square&logo=ts-node&logoColor=white" /></a>
-  <a href="https://www.heroku.com"><img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <a href="https://www.git-scm.com"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
-  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=PostgreSQL&logoColor=white" /></a>
-  <a href="https://www.aol.com"><img alt="AOL (America Online)" src="https://img.shields.io/badge/-AOL-3399FF?style=flat-square&logo=aol&logoColor=white" /></a>
-  
-</p>
-<h3>#LKPPDigitalTransformation</h3>
-<p><img width="200" src="./public/img/lkpp/07ff7162-188b-4ccd-be7a-f134782800a7.jpg" /> <img width="200" src="./public/img/lkpp/444b46b1-abde-489b-a789-e444cd41200d.jpg" /> <img width="200" src="./public/img/lkpp/e832d9ec-ee79-419f-92b1-ba1e698ccc7f.jpg" /></p>
-<p>Above are some pictures posted by LKPP on <a href="https://www.instagram.com/lkpp_ri/" target="_blank">@lkpp_ri!</a><br/>GovTech Procurement's service for procurement of goods digital transformation with LKPP based on the Presidential Decree No. 17 of 2023.</a><br/><br/>Currently, the weather is at <b> 32°C, and it's <i>scattered clouds</i></b>.</br>Today, the sun will rise at <b>05:59</b> and sets at <b>17:45</b>, Western Indonesian Time.</p>
-<h3>Social Medias:</h3>
-<p><a href="https://instagram.com/hasimy.md" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hasimy-as/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+  <p>
+    <a href="https://www.linkedin.com/in/hasimy-as/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://instagram.com/hasimy.md"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  </p>
+</div>
 
-------------
-<p align="center">This README file will be updated to keep up with <a href="https://www.instagram.com/lkpp_ri/" target="_blank">@lkpp_ri</a>'s posts!</br>Last updated at: Thursday 11 June at 11:11 GMT+7<br /></p>
+---
 
+### 👨‍💻 About Me
+
+Hello! I'm a Back-End Engineer based in Indonesia, currently focused on the e-procurement digital transformation at **LKPP** (Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah). I specialize in building reliable, high-performance backend services using **Golang**, **Node.js (Vanilla JS & TypeScript)**, **gRPC**, and **GraphQL**.
+
+Lately, I've also been expanding my skillset into the frontend! I'm exploring **Next.js** and learning how to seamlessly integrate backend APIs with Server-Side Rendered (SSR) web applications.
+
+* 🌱 **Currently exploring:** Next.js and advanced DevOps.
+* ⚡ **Fun fact:** I maintain my own personal server sandbox to host my side projects and streamline my DevOps workflows.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**<br>
+<img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="TS-Node" src="https://img.shields.io/badge/-TypeScript%20Node-3178C6?style=flat-square&logo=ts-node&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express" />
+<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img alt="gRPC" src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white" />
+
+**Databases & Caching:**<br>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+
+**DevOps & Infrastructure:**<br>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+---
+
+### 🏛️ #LKPPDigitalTransformation
+
+GovTech Procurement's service for procurement of goods digital transformation with LKPP based on Presidential Decree No. 17 of 2023.
+
+<div align="center">
+  <img width="250" src="./public/img/lkpp/07ff7162-188b-4ccd-be7a-f134782800a7.jpg" /> 
+  <img width="250" src="./public/img/lkpp/444b46b1-abde-489b-a789-e444cd41200d.jpg" /> 
+  <img width="250" src="./public/img/lkpp/e832d9ec-ee79-419f-92b1-ba1e698ccc7f.jpg" />
+</div>
+<p align="center"><i>Updates from <a href="https://www.instagram.com/lkpp_ri/">@lkpp_ri</a></i></p>
+
+---
+
+### 🌤️ Jakarta Weather & Time
+
+> Currently, the weather in Jakarta is **30°C** with **partly cloudy**.
+> The sun rises at **05:03** and sets at **17:27** (WIB).
+
+<div align="center">
+  <br/>
+  <p><small><i>This README is dynamically updated. Last refresh: Thursday 11 June at 21:02 GMT+7</i></small></p>
+</div>
