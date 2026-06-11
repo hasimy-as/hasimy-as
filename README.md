@@ -14,12 +14,12 @@
 
 ### 👨‍💻 About Me
 
-Hello! I'm a Back-End Engineer based in Indonesia, currently focused on the e-procurement digital transformation at **LKPP** (Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah). I specialize in building reliable, high-performance backend services using **Golang**, **Node.js (Vanilla JS & TypeScript)**, **gRPC**, and **GraphQL**.
+Hello! I'm a Back-End Engineer based in Indonesia, currently focused on the e-procurement digital transformation at **LKPP** (Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah). I specialize in building reliable, high-performance backend services using **Golang** and **Node.js (Vanilla JS & TypeScript)**.
 
-Lately, I've also been expanding my skillset into the frontend! I'm exploring **Next.js** and learning how to seamlessly integrate backend APIs with Server-Side Rendered (SSR) web applications.
+Lately, I've also been expanding my skillset into the frontend! I've revisited **React.js** and also currently exploring **Next.js**, rediscovering on integrating backend APIs with Server-Side Rendered (SSR) web applications.
 
-* 🌱 **Currently exploring:** Next.js and advanced DevOps.
-* ⚡ **Fun fact:** I maintain my own personal server sandbox to host my side projects and streamline my DevOps workflows.
+* **Currently exploring:** React.js, Next.js and advanced DevOps.
+* **Fun fact:** I maintain my own personal server sandbox to host my side projects and streamline my DevOps workflows.
 
 ---
 
@@ -63,10 +63,10 @@ GovTech Procurement's service for procurement of goods digital transformation wi
 
 ### 🌤️ Jakarta Weather & Time
 
-> Currently, the weather in Jakarta is **30°C** with **partly cloudy**.
-> The sun rises at **05:03** and sets at **17:27** (WIB).
+> Currently, the weather in Jakarta is **29°C** with **few clouds**.
+> The sun rises at **05:59** and sets at **17:45** (WIB).
 
 <div align="center">
   <br/>
-  <p><small><i>This README is dynamically updated. Last refresh: Thursday 11 June at 21:02 GMT+7</i></small></p>
+  <p><small><i>This README is dynamically updated. Last refresh: Thursday 11 June at 21:06 GMT+7</i></small></p>
 </div>
