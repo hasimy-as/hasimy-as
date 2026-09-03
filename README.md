@@ -68,5 +68,5 @@ GovTech Procurement's service for procurement of goods digital transformation wi
 
 <div align="center">
   <br/>
-  <p><small><i>This README is dynamically updated. Last refresh: Wednesday 2 September at 09:21 GMT+7</i></small></p>
+  <p><small><i>This README is dynamically updated. Last refresh: Thursday 3 September at 09:28 GMT+7</i></small></p>
 </div>
