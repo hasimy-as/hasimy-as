@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello,%20I'm%20Hasimy!&fontSize=50&animation=fadeIn&fontAlignY=38" />
 
-  <h3>Back-End Engineer @ GovTech Procurement (GTP)</h3>
-  <p>Building reliable systems for Indonesia's digital transformation.</p>
+  <h3>Back-End Engineer @ <a href="https://telkom.co.id/">Telkom Indonesia</a></h3>
+  <p>Currently stationed in the Tribe of <b>E-Government Procurement</b>.</p>
 
   <p>
     <a href="https://www.linkedin.com/in/hasimy-as/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -63,10 +63,10 @@ GovTech Procurement's service for procurement of goods digital transformation wi
 
 ### 🌤️ Jakarta Weather & Time
 
-> Currently, the weather in Jakarta is **32°C** with **clear sky**.
+> Currently, the weather in Jakarta is **34°C** with **scattered clouds**.
 > The sun rises at **05:46** and sets at **17:50** (WIB).
 
 <div align="center">
   <br/>
-  <p><small><i>This README is dynamically updated. Last refresh: Monday 14 September at 09:50 GMT+7</i></small></p>
+  <p><small><i>This README is dynamically updated. Last refresh: Monday 14 September at 14:22 GMT+7</i></small></p>
 </div>
