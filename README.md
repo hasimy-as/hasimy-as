@@ -64,9 +64,9 @@ GovTech Procurement's service for procurement of goods digital transformation wi
 ### 🌤️ Jakarta Weather & Time
 
 > Currently, the weather in Jakarta is **31°C** with **scattered clouds**.
-> The sun rises at **05:40** and sets at **17:47** (WIB).
+> The sun rises at **05:39** and sets at **17:47** (WIB).
 
 <div align="center">
   <br/>
-  <p><small><i>This README is dynamically updated. Last refresh: Saturday 26 September at 09:58 GMT+7</i></small></p>
+  <p><small><i>This README is dynamically updated. Last refresh: Sunday 27 September at 10:02 GMT+7</i></small></p>
 </div>
